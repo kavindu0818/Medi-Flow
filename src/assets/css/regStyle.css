@@ -1,0 +1,31 @@
+.custom-card-body {
+    width: 700px;
+}
+
+.custom-name-form {
+    width: 600px;
+    display: flex;
+}
+
+.custom-name-form>.col-12 {
+    width: 200px;
+    margin-right: 30px;
+}
+
+#custom-form {
+    display: flex;
+}
+
+#custom-form>.col-12 {
+    width: 300px;
+    margin-right: 62px;
+}
+
+.custom-form2 {
+    display: flex;
+}
+
+.custom-form2>.col-12 {
+    width: 320px;
+    margin-right: 20px;
+}
